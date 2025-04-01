@@ -1,0 +1,23 @@
+.jaune{
+    color: yellow;
+}
+
+.bleu{
+    color: blue;
+}
+
+h1{
+    color: red;
+}
+
+h3{
+    font-size: 80px;
+    text-align: center;
+}
+
+p{
+    background-color: pink;
+    color: white;
+    width: 50%;
+    margin: auto;
+}
